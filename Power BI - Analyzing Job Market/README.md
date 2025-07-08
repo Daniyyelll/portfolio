@@ -6,19 +6,19 @@ This analysis is made for investigating the data to find out what skills are mos
 
 ## Skills Showcased
 
-- **ETL:**
+- **:wrench: ETL:**
 Cleaned and structured raw job posting data using Power Query to ensure quality and consistency before analysis.
 
-- **Data Modeling:**
+- **:art: Data Modeling:**
 Designed relational data models to connect job posts, companies, and skills required for efficient querying.
 
-- **DAX:**
+- **:mag_right: DAX:**
 Applied DAX measures and calculated columns to derive KPIs like average salary, job posts count, and skills count.
 
-- **Power BI Dashboards:**
+- **:page_with_curl: Power BI Dashboards:**
 Built dynamic and user-friendly dashboards with slicers, filters, and interactive charts for intuitive data exploration.
 
-- **Data Visualization:**
+- **:bar_chart: Data Visualization:**
 Presented complex job market trends clearly using bar charts, line graphs, and tables to support insight-driven decisions.
 
 ## Page 1
