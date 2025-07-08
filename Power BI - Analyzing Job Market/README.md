@@ -23,7 +23,7 @@ Presented complex job market trends clearly using bar charts, line graphs, and t
 
 ## Page 1
 
-<img src="./imgs/page1.png", alt = "Page 1">
+<img src="./imgs/page1.png" alt = "Page 1">
 
 The Home Page serves as the landing screen of the Power BI dashboard, designed with a clean interface that reflects the brand identity of DataSearch. It provides a user-friendly entry point into the analysis with intuitive navigation.
 
@@ -39,19 +39,19 @@ This structured layout ensures a seamless user experience, allowing stakeholders
 
 ## Page 2
 
-<img src="./imgs/page2.png", alt = "Page 2">
+<img src="./imgs/page2.png" alt = "Page 2">
 
 The **Jobs Overview** page provides a comprehensive analysis of job postings across positions, skills, and time periods. It features key metrics such as the total number of job postings, average years of experience, and top skills required. Interactive visuals—such as bar charts, and time series graphs—allow users to filter into specific job categories or time frames.
 
 ## Page 3
 
-<img src="./imgs/page3.png", alt = "Page 3">
+<img src="./imgs/page3.png" alt = "Page 3">
 
 The **Skills Overview** page focuses on analyzing the demand for job-related skills across the market. It highlights the most frequently requested skills in job postings and tracks how the top skills have evolved over time, using visuals like bar charts, and line graphs. Users can explore the percentage share of top skills by year, revealing shifts in employer priorities and emerging technologies.
 
 ## Page 4
 
-<img src="./imgs/page4.png", alt = "Page 4">
+<img src="./imgs/page4.png" alt = "Page 4">
 
 The **Company Overview** page delivers insights into hiring patterns across different industries and employers. It features visuals such as Skills Count by Top 10 Industries, allowing users to see which skills are most valued in each sector. Additionally, it presents the Average Years of Experience required, broken down by Company Industry and Job Position, offering a clearer picture of role expectations across domains.
 
