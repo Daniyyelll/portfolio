@@ -1,4 +1,4 @@
-# Coffee Orders Sales
+# Coffee Order Sales Analysis
 
 ## Introduction
 This project focuses on analyzing coffee sales data using Microsoft Excel. The dataset contains detailed records of coffee transactions, including coffee types, sales volumes, customer regions, and dates. The goal of the project is to explore the data, obtain valuable insights, and present the findings in an interactive dashboard.
