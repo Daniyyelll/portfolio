@@ -14,7 +14,7 @@ The data exploration phase began by connecting to the source tables using Power 
 Here we have three tables [**Products, Customers, and Orders**]. The analysis will be on the **Orders** table.
 
 <img src="./imgs/products_table.png" alt="productstable" width = "50%">
-<img src="./imgs/orders_table.png" alt="orderstable" width = "70%" height="50%">
+<img src="./imgs/orders_table.png" alt="orderstable" width = "70%">
 <img src="./imgs/customers_table.png" alt="customerstable" width = "70%">
 
 ## Preparing Tables
